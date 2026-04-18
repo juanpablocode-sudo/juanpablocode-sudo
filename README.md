@@ -54,11 +54,13 @@
 
 ---
 
-## 🛡️ Proyecto principal
+## 🛡️ Proyectos
 
 📌 CyberDefense Journey  
-Labs reales + scripts de ciberseguridad
+→ Labs de ciberseguridad (Linux / Blue Team)
 
+📱 Mobile Security Lab  
+→ Seguridad en aplicaciones Android
 ---
 
 ## 💬 Filosofía
