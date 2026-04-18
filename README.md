@@ -8,7 +8,8 @@
 
 ## 🧠 Sobre mí
 
-🛡️ Estudiante de Licenciatura en Ciberdefensa 
+🛡️ Estudiante de Licenciatura en Ciberdefensa (UNDEF)
+
 💻 Enfocado en seguridad ofensiva y defensiva  
 📱 Interesado en Mobile Security (Android)  
 
