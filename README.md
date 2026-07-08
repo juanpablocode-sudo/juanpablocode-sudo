@@ -57,11 +57,17 @@
 
 ## 🛡️ Proyectos
 
-📌 CyberDefense Journey  
-→ Labs de ciberseguridad (Linux / Blue Team)
+📱 **mobile-security-lab**
+→ Seguridad en aplicaciones Android (pentesting & análisis)
 
-📱 Mobile Security Lab  
-→ Seguridad en aplicaciones Android
+🔍 **apk-permission-auditor**
+→ Herramienta en Python que audita permisos de APKs Android
+
+🛡️ **mini-ids**
+→ Sistema de detección de intentos de acceso fallidos (IDS básico en Python)
+
+📌 **cyberdefense-journey**
+→ Repositorio de formación en ciberdefensa (UNDEF)
 ---
 
 ## 💬 Filosofía
