@@ -73,3 +73,9 @@
 ## 💬 Filosofía
 
 > "La seguridad no es un producto, es un proceso."
+
+---
+
+## 📫 Contacto
+
+[LinkedIn](https://www.linkedin.com/in/desarrolladorandroid/)
