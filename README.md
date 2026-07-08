@@ -26,7 +26,7 @@
 <p>
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=green">
   <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=green">
-  ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=green)
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=green">
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=green">
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=green">
   <img src="https://img.shields.io/badge/Android-000000?style=for-the-badge&logo=android&logoColor=green">
