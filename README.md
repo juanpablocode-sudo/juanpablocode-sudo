@@ -1,4 +1,4 @@
-# 🛡️ Juan Pablo | Cybersecurity & Mobile Security
+# 🛡️ Juan Pablo | Mobile Security & Email Authentication
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity+Student;Blue+Team+%7C+SOC+Analyst;Mobile+Security+Enthusiast;Linux+%26+Bash&center=true&width=500&height=50&color=00FF00">
@@ -8,18 +8,16 @@
 
 ## 🧠 Sobre mí
 
-🛡️ Estudiante de Licenciatura en Ciberdefensa (UNDEF)
-
-💻 Enfocado en seguridad ofensiva y defensiva 
-
-📱 Interesado en Mobile Security (Android)
+💻 Android Developer con 9+ años de experiencia
+🛡️ Transición activa hacia Mobile Security & Email Authentication Security
+📚 Formación en Ciberdefensa (UNDEF)
 
 ---
 
 ## 🎯 Objetivo profesional
 
-- 🛡️ Analista de Ciberseguridad (SOC / Blue Team)  
-- 📱 Security Engineer Mobile  
+- 📱 Mobile Security Engineer
+- ✉️ Email Authentication & Deliverability Security (SPF/DKIM/DMARC)
 
 ---
 
@@ -28,6 +26,7 @@
 <p>
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=green">
   <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=green">
+  ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=green)
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=green">
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=green">
   <img src="https://img.shields.io/badge/Android-000000?style=for-the-badge&logo=android&logoColor=green">
