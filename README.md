@@ -1,7 +1,7 @@
 # 🛡️ Juan Pablo | Mobile Security & Email Authentication
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity+Student;Blue+Team+%7C+SOC+Analyst;Mobile+Security+Enthusiast;Linux+%26+Bash&center=true&width=500&height=50&color=00FF00">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Android+Developer+(9%2B+years);Mobile+Security+Engineer;Email+Authentication+(SPF%2FDKIM%2FDMARC);Linux+%26+Bash&center=true&width=500&height=50&color=00FF00">
 </p>
 
 ---
